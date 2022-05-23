@@ -1,0 +1,28 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/local-runner": "^7.19.7",
+    "@wdio/mocha-framework": "^7.19.7",
+    "@wdio/spec-reporter": "^7.19.7",
+    "chai-webdriverio": "^1.0.0",
+    "chromedriver": "^101.0.0",
+    "wdio-chromedriver-service": "^7.3.2",
+    "webdriverio": "^7.19.7"
+  },
+  "dependencies": {
+    "@wdio/cli": "^7.19.7",
+    "selenium-webdriver": "^4.1.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
